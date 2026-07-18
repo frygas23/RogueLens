@@ -1,0 +1,15 @@
+# core simulator
+numpy>=1.24
+matplotlib>=3.7
+
+# interactive demo app (streamlit run app.py)
+streamlit>=1.30
+scipy>=1.10
+pandas>=2.0
+Pillow>=10.0
+
+# development
+pytest>=7.0
+
+# optional: FITS image support in the app
+# astropy>=6.0

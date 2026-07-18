@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: RogueLens
+authors:
+  - family-names: Fryganiotis
+    given-names: Giannis
+version: 0.1.0
+date-released: 2026-07-04
+message: "If you use this educational project, please cite it as a student STEM portfolio simulation."
